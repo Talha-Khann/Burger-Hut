@@ -1,4 +1,4 @@
-# Berger Hut 🍔
+# Burger Hut 🍔
 
 A dark-themed restaurant website built with plain HTML and CSS.
 
